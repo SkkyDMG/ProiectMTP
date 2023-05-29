@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Utilizatori>
+	
+	<Utilizator>
+		<numeUtilizator>admin</numeUtilizator>
+		<parolaUtilizator>admin123</parolaUtilizator>
+	</Utilizator>
+
+	<Utilizator>
+		<numeUtilizator>Ruben</numeUtilizator>
+		<parolaUtilizator>rubenruben</parolaUtilizator>	
+	</Utilizator>
+
+	<Utilizator>
+		<numeUtilizator>Naty</numeUtilizator>
+		<parolaUtilizator>nati2727</parolaUtilizator>
+	</Utilizator>
+		
+</Utilizatori>
