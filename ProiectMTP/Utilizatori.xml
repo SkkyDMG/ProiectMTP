@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Utilizatori>
+  <Utilizator>
+    <numeUtilizator>admin</numeUtilizator>
+    <parolaUtilizator>admin123</parolaUtilizator>
+    <job>Admin</job>
+  </Utilizator>
+  <Utilizator>
+    <numeUtilizator>Teodor</numeUtilizator>
+    <parolaUtilizator>SkkyDM6</parolaUtilizator>
+    <job>Student</job>
+  </Utilizator>
+  <Utilizator>
+    <numeUtilizator>Paul</numeUtilizator>
+    <parolaUtilizator>Paul123</parolaUtilizator>
+    <job>Student</job>
+  </Utilizator>
+  <Utilizator>
+    <numeUtilizator>Ruben</numeUtilizator>
+    <parolaUtilizator>Ruben654</parolaUtilizator>
+    <job>Student</job>
+  </Utilizator>
+  <Utilizator>
+    <numeUtilizator>Flavia</numeUtilizator>
+    <parolaUtilizator>Flavia123456</parolaUtilizator>
+    <job>Dentista</job>
+  </Utilizator>
+  <Utilizator>
+    <numeUtilizator>Dani</numeUtilizator>
+    <parolaUtilizator>Mecanicul10</parolaUtilizator>
+    <job>Mecanic</job>
+  </Utilizator>
+  <Utilizator>
+    <numeUtilizator>Razvan</numeUtilizator>
+    <parolaUtilizator>ParolaRazvan123</parolaUtilizator>
+    <job>Consultant</job>
+  </Utilizator>
+</Utilizatori>
